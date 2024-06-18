@@ -1,0 +1,2 @@
+La ciencia de datos es un campo académico interdisciplinario que utiliza estadística, computación científica, métodos, procesos, algoritmos y sistemas científicos para obtener (recolectar o extraer), tratar, analizar y presentar informes a partir de datos ruidosos, estructurados y no estructurados.
+La ciencia de datos es multifacética y puede describirse como una ciencia, un paradigma de investigación, un método de investigación, una disciplina, un flujo de trabajo o una profesión.

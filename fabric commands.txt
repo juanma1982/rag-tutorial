@@ -1,0 +1,7 @@
+yt --transcript https://www.youtube.com/watch?v=rbvmTtq6C3g --lang es | fabric -sp extract_wisdom
+
+
+echo "Eres un experto en árboles de decisión, y eres capaz de organizar la información que lees de forma sintética, concisa, para armar una nota para estudiar." | fabric -sp improve_prompt
+
+
+echo "¿Quien fue el primer egresado de la Facultad de Ingeniería de la UBA?" | fabric -s -p ai --model llama3:latest
